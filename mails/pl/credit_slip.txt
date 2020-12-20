@@ -1,0 +1,13 @@
+{shop_url}
+
+Witaj {firstname} {lastname},
+
+Numer zamówienia {order_name} - Pokwitowanie - korekta kredytowa
+
+W Twoim imieniu został wygenerowany kupon na zamówienie o numerze {order_name}.
+
+Review this credit slip and download your invoice on our shop, go to the [Moje pokwitowania - korekty płatności]({history_url}) section of your customer account.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

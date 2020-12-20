@@ -1,0 +1,15 @@
+{shop_url}
+
+Witaj {firstname} {lastname},
+
+Dziękujemy za zakupy na stronie {shop_name}!
+
+Twoje zamówienie o numerze {order_name} zostało wysłane.
+
+Follow your order and download your invoice on our shop, go to the [Historia i szczegóły zamówień]({history_url}) section of your customer account.
+
+If you have a guest account, you can follow your order via the [Śledzenie Zamówienia]({guest_tracking_url}) section on our shop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
