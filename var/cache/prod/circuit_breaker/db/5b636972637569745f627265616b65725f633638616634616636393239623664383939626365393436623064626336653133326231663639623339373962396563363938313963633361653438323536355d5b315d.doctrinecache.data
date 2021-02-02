@@ -1,0 +1,91 @@
+1611954549
+s:6399:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/pl/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/pl/blog/feed.xml</link>
+    <description></description>
+    <language>pl</language>
+     <atom:link href="https://www.prestashop.com/pl/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Bezpieczeństwo i płatności – jak zyskać zaufanie klientów?</title>
+    <link>https://www.prestashop.com/pl/blog/bezpieczenstwo-platnosci-klientow</link>
+    <description>Im lepiej znasz swoich klientów, tym lepiej możesz ich obsługiwać, a tym samym zapewniać większą satysfakcję z zakupów.</description>
+     <pubDate>Thu, 21 Jan 2021 16:30:41 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/bezpieczenstwo-platnosci-klientow</guid>
+  </item>
+  <item>
+    <title>PayPal to nie wszystko – 5 metod płatności, które możesz zaoferować swoim klientom</title>
+    <link>https://www.prestashop.com/pl/blog/5-metod-p%C5%82atnosci</link>
+    <description>Czy wiesz, że im bezpieczniejsze metody, które oferujesz klientom tym większa szansa, że zyskasz ich lojalność?</description>
+     <pubDate>Tue, 19 Jan 2021 14:54:36 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/5-metod-p%C5%82atnosci</guid>
+  </item>
+  <item>
+    <title>Narzędzia promocyjne – czyli jak dawać, aby zyskiwać?</title>
+    <link>https://www.prestashop.com/pl/blog/narzedzia-promocyjne-zyskiwac</link>
+    <description>Dawać, aby zyskiwać? Czy to w ogóle możliwe? Oczywiście. Promocje, kupony, obniżki czy vouchery nie bez powodu sprawdzają się od lat w e-commerce.</description>
+     <pubDate>Thu, 14 Jan 2021 14:32:57 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/narzedzia-promocyjne-zyskiwac</guid>
+  </item>
+  <item>
+    <title>Zdrowie i natura ze wsparciem technologii – platforma PrestaShop w sklepie Medpak</title>
+    <link>https://www.prestashop.com/pl/blog/zdrowie-prestashop-medpak</link>
+    <description>Niewielkie biuro i kilkanaście artykułów na półkach – tak wyglądały początki firmy Medpak.</description>
+     <pubDate>Tue, 12 Jan 2021 18:22:39 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/zdrowie-prestashop-medpak</guid>
+  </item>
+  <item>
+    <title>Pierwszy zakup jako kluczowa faza customer journey</title>
+    <link>https://www.prestashop.com/pl/blog/zakup-customer-journey</link>
+    <description>O wadze pierwszego wrażenia słyszysz w każdej dziedzinie życia. Nie inaczej jest w e-commerce. W samym 2020 roku udziały e-handlu na polskim rynku wzrosły z 5,5% do aż 12%.</description>
+     <pubDate>Thu, 07 Jan 2021 10:51:25 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/zakup-customer-journey</guid>
+  </item>
+  <item>
+    <title>Marka w sieci: jak skutecznie zarządzać strategią bazującą na danych </title>
+    <link>https://www.prestashop.com/pl/blog/marka-sieci-danych</link>
+    <description>Nietrudno zauważyć zalety jakie przynosi korzystanie z danych w strategii marki – niezależnie czy chodzi o logistykę, komunikację, czy marketing.</description>
+     <pubDate>Tue, 05 Jan 2021 11:23:16 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/marka-sieci-danych</guid>
+  </item>
+  <item>
+    <title>5 zalet oferowania promocji opartych na danych</title>
+    <link>https://www.prestashop.com/pl/blog/promocji-opartych-danych</link>
+    <description>Strategia bazująca na danych staje się na rynku e-commerce coraz popularniejsza z oczywistego względu – po prostu działa.</description>
+     <pubDate>Wed, 16 Dec 2020 17:48:31 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/promocji-opartych-danych</guid>
+  </item>
+  <item>
+    <title>Wiemy, czego pragniesz - czyli personalizacja w oparciu o dane</title>
+    <link>https://www.prestashop.com/pl/blog/personalizacja-oparciu-dane</link>
+    <description>Czego dusza pragnie? Przede wszystkim personalnego podejścia. Dzisiejsze trendy w marketingu jednoznacznie pokazują, że konsument oczekuje od marki autentyczności.</description>
+     <pubDate>Wed, 16 Dec 2020 17:44:19 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/personalizacja-oparciu-dane</guid>
+  </item>
+  <item>
+    <title>Szał promocji: jak skutecznie dobierać zniżki?</title>
+    <link>https://www.prestashop.com/pl/blog/promocji-dobierac-znizki</link>
+    <description>Koniec roku jest najgorętszym okresem sprzedażowym, w którym e-sklepy odnotowują najwyższe dochody. Wtedy przychodzi czas największych akcji rabatowych, znanych m.in.</description>
+     <pubDate>Wed, 16 Dec 2020 16:14:11 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/promocji-dobierac-znizki</guid>
+  </item>
+  <item>
+    <title>10 wskazówek dla lepszego zarządzania logistyką e-commerce</title>
+    <link>https://www.prestashop.com/pl/blog/wskazowek-logistyka-ecommerce</link>
+    <description>Jeśli e-commerce porównać do organizmu, to marketing byłby jego mózgiem, natomiast logistyka sercem – dlatego warto dbać o jej efektywne działanie i trzymać rękę na pulsie.</description>
+     <pubDate>Mon, 14 Dec 2020 17:52:09 +0100</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/wskazowek-logistyka-ecommerce</guid>
+  </item>
+  </channel>
+</rss>
+";
