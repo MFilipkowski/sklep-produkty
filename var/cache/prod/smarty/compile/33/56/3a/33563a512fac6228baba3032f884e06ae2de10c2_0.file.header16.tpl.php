@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-20 14:05:49
+/* Smarty version 3.1.34-dev-7, created on 2021-02-04 14:01:01
   from '/var/www/html/modules/payu/views/templates/admin/header16.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdf4c2dd49e54_99101905',
+  'unifunc' => 'content_601bf00d5ce176_09747183',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '33563a512fac6228baba3032f884e06ae2de10c2' => 
     array (
       0 => '/var/www/html/modules/payu/views/templates/admin/header16.tpl',
-      1 => 1608462635,
+      1 => 1611237233,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fdf4c2dd49e54_99101905 (Smarty_Internal_Template $_smarty_tpl) {
+function content_601bf00d5ce176_09747183 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['show_refund']->value) {?>
 	<?php $_smarty_tpl->smarty->ext->_capture->open($_smarty_tpl, 'default', 'refund_fieldset', null);?>
 		<div class="well">

@@ -1,42 +1,42 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-01-26 23:12:19
+/* Smarty version 3.1.34-dev-7, created on 2021-02-04 14:05:07
   from 'module:psnewproductsviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_601093c3018fd7_91642572',
+  'unifunc' => 'content_601bf10378b067_09981733',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4a8df44403a47041b050fac755e17268c2a7c3e7' => 
     array (
       0 => 'module:psnewproductsviewstemplat',
-      1 => 1606918382,
+      1 => 1611237234,
       2 => 'module',
     ),
     '86a4d354f725902b1405db749b93834da03807f6' => 
     array (
       0 => '/var/www/html/themes/classic/templates/catalog/_partials/productlist.tpl',
-      1 => 1606918382,
+      1 => 1611237234,
       2 => 'file',
     ),
     '4e48f9081812442e5797c9033049dad3e79d82e7' => 
     array (
       0 => '/var/www/html/themes/classic/templates/catalog/_partials/miniatures/product.tpl',
-      1 => 1606918382,
+      1 => 1611237234,
       2 => 'file',
     ),
     '0724df70e9113f9ffcf0299fe2d091b4d46089e2' => 
     array (
       0 => '/var/www/html/themes/classic/templates/catalog/_partials/product-flags.tpl',
-      1 => 1606918382,
+      1 => 1611237234,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_601093c3018fd7_91642572 (Smarty_Internal_Template $_smarty_tpl) {
+function content_601bf10378b067_09981733 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <section class="featured-products clearfix mt-3">
   <h2 class="h2 products-section-title text-uppercase">
@@ -45,7 +45,141 @@ function content_601093c3018fd7_91642572 (Smarty_Internal_Template $_smarty_tpl)
   <div class="products" itemscope itemtype="http://schema.org/ItemList">
             
 <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-  <meta itemprop="position" content="0" />  <article class="product-miniature js-product-miniature" data-id-product="22" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
+  <meta itemprop="position" content="0" />  <article class="product-miniature js-product-miniature" data-id-product="99" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+                  <a href="http://localhost:8080/programowanie/99-data-science-w-pythonie-kurs-video-algorytmy-uczenia-maszynowego.html" class="thumbnail product-thumbnail">
+            <img
+              src="http://localhost:8080/102-home_default/data-science-w-pythonie-kurs-video-algorytmy-uczenia-maszynowego.jpg"
+              alt="Data Science w Pythonie...."
+              data-full-size-image-url="http://localhost:8080/102-large_default/data-science-w-pythonie-kurs-video-algorytmy-uczenia-maszynowego.jpg"
+              />
+          </a>
+              
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://localhost:8080/programowanie/99-data-science-w-pythonie-kurs-video-algorytmy-uczenia-maszynowego.html" itemprop="url" content="http://localhost:8080/programowanie/99-data-science-w-pythonie-kurs-video-algorytmy-uczenia-maszynowego.html">Data Science w Pythonie....</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Cena">49,90 zł</span>
+              <div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="invisible">
+                <meta itemprop="priceCurrency" content="PLN" />
+                <meta itemprop="price" content="49.9" />
+              </div>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="99" data-url="http://localhost:8080/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+
+        
+      </div>
+
+      
+    <ul class="product-flags">
+                    <li class="product-flag new">Nowy</li>
+            </ul>
+
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
+          </a>
+        
+
+        
+                  
+      </div>
+    </div>
+  </article>
+</div>
+
+            
+<div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+  <meta itemprop="position" content="1" />  <article class="product-miniature js-product-miniature" data-id-product="42" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+                  <a href="http://localhost:8080/programowanie/42-java-kurs-video-zaawansowane-elementy-jezyka.html" class="thumbnail product-thumbnail">
+            <img
+              src="http://localhost:8080/45-home_default/java-kurs-video-zaawansowane-elementy-jezyka.jpg"
+              alt="Java. Kurs video...."
+              data-full-size-image-url="http://localhost:8080/45-large_default/java-kurs-video-zaawansowane-elementy-jezyka.jpg"
+              />
+          </a>
+              
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://localhost:8080/programowanie/42-java-kurs-video-zaawansowane-elementy-jezyka.html" itemprop="url" content="http://localhost:8080/programowanie/42-java-kurs-video-zaawansowane-elementy-jezyka.html">Java. Kurs video....</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Cena">49,90 zł</span>
+              <div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="invisible">
+                <meta itemprop="priceCurrency" content="PLN" />
+                <meta itemprop="price" content="49.9" />
+              </div>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="42" data-url="http://localhost:8080/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+
+        
+      </div>
+
+      
+    <ul class="product-flags">
+                    <li class="product-flag new">Nowy</li>
+            </ul>
+
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
+          </a>
+        
+
+        
+                  
+      </div>
+    </div>
+  </article>
+</div>
+
+            
+<div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+  <meta itemprop="position" content="2" />  <article class="product-miniature js-product-miniature" data-id-product="22" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
                   <a href="http://localhost:8080/inne/22-mistrz-czystego-kodu-.html" class="thumbnail product-thumbnail">
@@ -112,7 +246,7 @@ function content_601093c3018fd7_91642572 (Smarty_Internal_Template $_smarty_tpl)
 
             
 <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-  <meta itemprop="position" content="1" />  <article class="product-miniature js-product-miniature" data-id-product="21" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
+  <meta itemprop="position" content="3" />  <article class="product-miniature js-product-miniature" data-id-product="21" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
                   <a href="http://localhost:8080/inne/21-czysty-kod-podrecznik-dobrego-programisty-.html" class="thumbnail product-thumbnail">
@@ -179,7 +313,7 @@ function content_601093c3018fd7_91642572 (Smarty_Internal_Template $_smarty_tpl)
 
             
 <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-  <meta itemprop="position" content="2" />  <article class="product-miniature js-product-miniature" data-id-product="20" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
+  <meta itemprop="position" content="4" />  <article class="product-miniature js-product-miniature" data-id-product="20" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
                   <a href="http://localhost:8080/c/20-jezyk-c-szkola-programowania-.html" class="thumbnail product-thumbnail">
@@ -246,7 +380,7 @@ function content_601093c3018fd7_91642572 (Smarty_Internal_Template $_smarty_tpl)
 
             
 <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-  <meta itemprop="position" content="3" />  <article class="product-miniature js-product-miniature" data-id-product="19" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
+  <meta itemprop="position" content="5" />  <article class="product-miniature js-product-miniature" data-id-product="19" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
                   <a href="http://localhost:8080/sql/19-praktyczny-sql.html" class="thumbnail product-thumbnail">
@@ -313,7 +447,7 @@ function content_601093c3018fd7_91642572 (Smarty_Internal_Template $_smarty_tpl)
 
             
 <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-  <meta itemprop="position" content="4" />  <article class="product-miniature js-product-miniature" data-id-product="18" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
+  <meta itemprop="position" content="6" />  <article class="product-miniature js-product-miniature" data-id-product="18" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
                   <a href="http://localhost:8080/python/18-python-dla-kazdego-podstawy-programowania-.html" class="thumbnail product-thumbnail">
@@ -380,7 +514,7 @@ function content_601093c3018fd7_91642572 (Smarty_Internal_Template $_smarty_tpl)
 
             
 <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-  <meta itemprop="position" content="5" />  <article class="product-miniature js-product-miniature" data-id-product="17" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
+  <meta itemprop="position" content="7" />  <article class="product-miniature js-product-miniature" data-id-product="17" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
                   <a href="http://localhost:8080/sql/17-sql.html" class="thumbnail product-thumbnail">
@@ -417,140 +551,6 @@ function content_601093c3018fd7_91642572 (Smarty_Internal_Template $_smarty_tpl)
         
           
 <div class="product-list-reviews" data-id="17" data-url="http://localhost:8080/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
-        
-      </div>
-
-      
-    <ul class="product-flags">
-                    <li class="product-flag new">Nowy</li>
-            </ul>
-
-
-      <div class="highlighted-informations no-variants hidden-sm-down">
-        
-          <a class="quick-view" href="#" data-link-action="quickview">
-            <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
-          </a>
-        
-
-        
-                  
-      </div>
-    </div>
-  </article>
-</div>
-
-            
-<div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-  <meta itemprop="position" content="6" />  <article class="product-miniature js-product-miniature" data-id-product="16" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
-    <div class="thumbnail-container">
-      
-                  <a href="http://localhost:8080/sql/16-sql-w-mgnieniu-oka-.html" class="thumbnail product-thumbnail">
-            <img
-              src="http://localhost:8080/20-home_default/sql-w-mgnieniu-oka-.jpg"
-              alt="SQL w mgnieniu oka"
-              data-full-size-image-url="http://localhost:8080/20-large_default/sql-w-mgnieniu-oka-.jpg"
-              />
-          </a>
-              
-
-      <div class="product-description">
-        
-                      <h3 class="h3 product-title" itemprop="name"><a href="http://localhost:8080/sql/16-sql-w-mgnieniu-oka-.html" itemprop="url" content="http://localhost:8080/sql/16-sql-w-mgnieniu-oka-.html">SQL w mgnieniu oka</a></h3>
-                  
-
-        
-                      <div class="product-price-and-shipping">
-              
-              
-
-              <span class="price" aria-label="Cena">69,00 zł</span>
-              <div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="invisible">
-                <meta itemprop="priceCurrency" content="PLN" />
-                <meta itemprop="price" content="69" />
-              </div>
-
-              
-
-              
-            </div>
-                  
-
-        
-          
-<div class="product-list-reviews" data-id="16" data-url="http://localhost:8080/module/productcomments/CommentGrade">
-  <div class="grade-stars small-stars"></div>
-  <div class="comments-nb"></div>
-</div>
-
-
-        
-      </div>
-
-      
-    <ul class="product-flags">
-                    <li class="product-flag new">Nowy</li>
-            </ul>
-
-
-      <div class="highlighted-informations no-variants hidden-sm-down">
-        
-          <a class="quick-view" href="#" data-link-action="quickview">
-            <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
-          </a>
-        
-
-        
-                  
-      </div>
-    </div>
-  </article>
-</div>
-
-            
-<div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-  <meta itemprop="position" content="7" />  <article class="product-miniature js-product-miniature" data-id-product="15" data-id-product-attribute="0" itemprop="item" itemscope itemtype="http://schema.org/Product">
-    <div class="thumbnail-container">
-      
-                  <a href="http://localhost:8080/c/15-symfonia-c-tom-1-.html" class="thumbnail product-thumbnail">
-            <img
-              src="http://localhost:8080/19-home_default/symfonia-c-tom-1-.jpg"
-              alt="Symfonia C++ - Tom 1"
-              data-full-size-image-url="http://localhost:8080/19-large_default/symfonia-c-tom-1-.jpg"
-              />
-          </a>
-              
-
-      <div class="product-description">
-        
-                      <h3 class="h3 product-title" itemprop="name"><a href="http://localhost:8080/c/15-symfonia-c-tom-1-.html" itemprop="url" content="http://localhost:8080/c/15-symfonia-c-tom-1-.html">Symfonia C++ - Tom 1</a></h3>
-                  
-
-        
-                      <div class="product-price-and-shipping">
-              
-              
-
-              <span class="price" aria-label="Cena">129,00 zł</span>
-              <div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="invisible">
-                <meta itemprop="priceCurrency" content="PLN" />
-                <meta itemprop="price" content="129" />
-              </div>
-
-              
-
-              
-            </div>
-                  
-
-        
-          
-<div class="product-list-reviews" data-id="15" data-url="http://localhost:8080/module/productcomments/CommentGrade">
   <div class="grade-stars small-stars"></div>
   <div class="comments-nb"></div>
 </div>

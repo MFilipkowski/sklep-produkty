@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-20 15:33:05
+/* Smarty version 3.1.34-dev-7, created on 2021-02-04 17:59:20
   from 'module:productcommentsviewstempl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdf60a179ff09_99126385',
+  'unifunc' => 'content_601c27e8d14d57_18778328',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '53d020846923f4e549f38bd47e8a8005fe0312d9' => 
     array (
       0 => 'module:productcommentsviewstempl',
-      1 => 1608380278,
+      1 => 1611237233,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fdf60a179ff09_99126385 (Smarty_Internal_Template $_smarty_tpl) {
+function content_601c27e8d14d57_18778328 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_assignInScope('icon', (($tmp = @$_smarty_tpl->tpl_vars['icon']->value)===null||$tmp==='' ? 'check_circle' : $tmp));
 $_smarty_tpl->_assignInScope('modal_message', (($tmp = @$_smarty_tpl->tpl_vars['modal_message']->value)===null||$tmp==='' ? '' : $tmp));?>
 

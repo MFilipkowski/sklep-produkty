@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-20 14:05:49
+/* Smarty version 3.1.34-dev-7, created on 2021-02-04 16:05:00
   from '/var/www/html/admin-daniel/themes/default/template/controllers/modules/content-legacy.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdf4c2dd7cd31_74775865',
+  'unifunc' => 'content_601c0d1c2ecf35_71175398',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd350811d0a6592a4c2ba0747281f00adf20d5adc' => 
     array (
       0 => '/var/www/html/admin-daniel/themes/default/template/controllers/modules/content-legacy.tpl',
-      1 => 1606918382,
+      1 => 1611237233,
       2 => 'file',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:controllers/modules/page.tpl' => 1,
   ),
 ),false)) {
-function content_5fdf4c2dd7cd31_74775865 (Smarty_Internal_Template $_smarty_tpl) {
+function content_601c0d1c2ecf35_71175398 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_smarty_tpl->tpl_vars['module_content']->value)) {?>
 	<?php echo $_smarty_tpl->tpl_vars['module_content']->value;?>
 

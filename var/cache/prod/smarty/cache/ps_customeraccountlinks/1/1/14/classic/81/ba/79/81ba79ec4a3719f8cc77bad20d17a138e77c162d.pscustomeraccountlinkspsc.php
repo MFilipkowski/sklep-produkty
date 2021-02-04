@@ -1,24 +1,24 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-20 14:09:03
+/* Smarty version 3.1.34-dev-7, created on 2021-02-04 14:05:07
   from 'module:pscustomeraccountlinkspsc' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdf4cefa25261_72356086',
+  'unifunc' => 'content_601bf1039e9ee2_26094037',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '42f9461127ce7396a601c2484841253ea5ba658f' => 
     array (
       0 => 'module:pscustomeraccountlinkspsc',
-      1 => 1606918382,
+      1 => 1611237234,
       2 => 'module',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5fdf4cefa25261_72356086 (Smarty_Internal_Template $_smarty_tpl) {
+function content_601bf1039e9ee2_26094037 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
 ));
 ?>
@@ -61,6 +61,11 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
             <li>
           <a href="http://localhost:8080/adresy" title="Adresy" rel="nofollow">
             Adresy
+          </a>
+        </li>
+            <li>
+          <a href="http://localhost:8080/rabaty" title="Kupony" rel="nofollow">
+            Kupony
           </a>
         </li>
         

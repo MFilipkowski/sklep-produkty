@@ -1405,6 +1405,7 @@ class AdminContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
                 68 => 'payu',
                 69 => 'ps_googleanalytics',
                 70 => 'uecookie',
+                71 => 'verticalblockcategories',
             ],
             'ps_cache_dir' => '/var/www/html/var/cache/prod/',
             'mail_themes_uri' => '/mails/themes',

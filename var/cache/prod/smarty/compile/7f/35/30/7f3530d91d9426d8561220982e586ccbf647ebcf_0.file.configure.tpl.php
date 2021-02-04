@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-20 15:30:17
+/* Smarty version 3.1.34-dev-7, created on 2021-02-04 16:05:00
   from '/var/www/html/modules/emarketing/views/templates/admin/configure.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdf5ff9d0d669_14889775',
+  'unifunc' => 'content_601c0d1c289a52_13690314',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '7f3530d91d9426d8561220982e586ccbf647ebcf' => 
     array (
       0 => '/var/www/html/modules/emarketing/views/templates/admin/configure.tpl',
-      1 => 1608326818,
+      1 => 1611237233,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fdf5ff9d0d669_14889775 (Smarty_Internal_Template $_smarty_tpl) {
+function content_601c0d1c289a52_13690314 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div>
     <div class="panel emarketing informations col-lg-10 col-lg-offset-1">

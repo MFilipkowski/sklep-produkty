@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-20 14:26:08
+/* Smarty version 3.1.34-dev-7, created on 2021-02-04 16:13:48
   from '/var/www/html/themes/classic/templates/catalog/_partials/products.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fdf50f0e21366_58256522',
+  'unifunc' => 'content_601c0f2cdfb928_31983606',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4b2d146fe2f245ff519a86d727546800da54d4e3' => 
     array (
       0 => '/var/www/html/themes/classic/templates/catalog/_partials/products.tpl',
-      1 => 1606918382,
+      1 => 1611237234,
       2 => 'file',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:_partials/pagination.tpl' => 1,
   ),
 ),false)) {
-function content_5fdf50f0e21366_58256522 (Smarty_Internal_Template $_smarty_tpl) {
+function content_601c0f2cdfb928_31983606 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
@@ -31,7 +31,7 @@ $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
 
   <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_10496902535fdf50f0e200f9_03481144', 'pagination');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_838894154601c0f2cdfa8e6_53546070', 'pagination');
 ?>
 
 
@@ -45,12 +45,12 @@ $_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_10496902535fdf50f0
 </div>
 <?php }
 /* {block 'pagination'} */
-class Block_10496902535fdf50f0e200f9_03481144 extends Smarty_Internal_Block
+class Block_838894154601c0f2cdfa8e6_53546070 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'pagination' => 
   array (
-    0 => 'Block_10496902535fdf50f0e200f9_03481144',
+    0 => 'Block_838894154601c0f2cdfa8e6_53546070',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

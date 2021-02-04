@@ -6348,6 +6348,60 @@ class appProdProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBundle\R
 
         }
 
+        elseif (0 === strpos($pathinfo, '/modules/addons')) {
+            if (0 === strpos($pathinfo, '/modules/addons/modules/catalog')) {
+                // admin_mbo_catalog_module
+                if ('/modules/addons/modules/catalog' === $pathinfo) {
+                    $ret = array (  '_controller' => 'mbo.controller.modules.catalog:indexAction',  '_legacy_controller' => 'AdminPsMboModule',  '_legacy_link' => 'AdminPsMboModule',  '_route' => 'admin_mbo_catalog_module',);
+                    if (!in_array($canonicalMethod, ['GET'])) {
+                        $allow = array_merge($allow, ['GET']);
+                        goto not_admin_mbo_catalog_module;
+                    }
+
+                    return $ret;
+                }
+                not_admin_mbo_catalog_module:
+
+                // admin_mbo_catalog_module_selection
+                if ('/modules/addons/modules/catalog/selection' === $pathinfo) {
+                    $ret = array (  '_controller' => 'mbo.controller.modules.selection:indexAction',  '_legacy_controller' => 'AdminPsMboAddons',  '_legacy_link' => 'AdminPsMboAddons',  '_route' => 'admin_mbo_catalog_module_selection',);
+                    if (!in_array($canonicalMethod, ['GET'])) {
+                        $allow = array_merge($allow, ['GET']);
+                        goto not_admin_mbo_catalog_module_selection;
+                    }
+
+                    return $ret;
+                }
+                not_admin_mbo_catalog_module_selection:
+
+            }
+
+            // admin_mbo_recommended_modules
+            if ('/modules/addons/modules/recommended' === $pathinfo) {
+                $ret = array (  '_controller' => 'mbo.controller.modules.recommended:indexAction',  '_legacy_controller' => 'AdminPsMboRecommended',  '_legacy_link' => 'AdminPsMboRecommended',  '_route' => 'admin_mbo_recommended_modules',);
+                if (!in_array($canonicalMethod, ['GET'])) {
+                    $allow = array_merge($allow, ['GET']);
+                    goto not_admin_mbo_recommended_modules;
+                }
+
+                return $ret;
+            }
+            not_admin_mbo_recommended_modules:
+
+            // admin_mbo_catalog_theme
+            if ('/modules/addons/themes/catalog' === $pathinfo) {
+                $ret = array (  '_controller' => 'mbo.controller.themes.catalog:indexAction',  '_legacy_controller' => 'AdminPsMboTheme',  '_legacy_link' => 'AdminPsMboTheme',  '_route' => 'admin_mbo_catalog_theme',);
+                if (!in_array($canonicalMethod, ['GET'])) {
+                    $allow = array_merge($allow, ['GET']);
+                    goto not_admin_mbo_catalog_theme;
+                }
+
+                return $ret;
+            }
+            not_admin_mbo_catalog_theme:
+
+        }
+
         elseif (0 === strpos($pathinfo, '/modules/link-widget')) {
             // admin_link_block_list
             if ('/modules/link-widget/list' === $pathinfo) {
@@ -6438,60 +6492,6 @@ class appProdProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBundle\R
                 return $ret;
             }
             not_admin_link_block_update_positions:
-
-        }
-
-        elseif (0 === strpos($pathinfo, '/modules/addons')) {
-            if (0 === strpos($pathinfo, '/modules/addons/modules/catalog')) {
-                // admin_mbo_catalog_module
-                if ('/modules/addons/modules/catalog' === $pathinfo) {
-                    $ret = array (  '_controller' => 'mbo.controller.modules.catalog:indexAction',  '_legacy_controller' => 'AdminPsMboModule',  '_legacy_link' => 'AdminPsMboModule',  '_route' => 'admin_mbo_catalog_module',);
-                    if (!in_array($canonicalMethod, ['GET'])) {
-                        $allow = array_merge($allow, ['GET']);
-                        goto not_admin_mbo_catalog_module;
-                    }
-
-                    return $ret;
-                }
-                not_admin_mbo_catalog_module:
-
-                // admin_mbo_catalog_module_selection
-                if ('/modules/addons/modules/catalog/selection' === $pathinfo) {
-                    $ret = array (  '_controller' => 'mbo.controller.modules.selection:indexAction',  '_legacy_controller' => 'AdminPsMboAddons',  '_legacy_link' => 'AdminPsMboAddons',  '_route' => 'admin_mbo_catalog_module_selection',);
-                    if (!in_array($canonicalMethod, ['GET'])) {
-                        $allow = array_merge($allow, ['GET']);
-                        goto not_admin_mbo_catalog_module_selection;
-                    }
-
-                    return $ret;
-                }
-                not_admin_mbo_catalog_module_selection:
-
-            }
-
-            // admin_mbo_recommended_modules
-            if ('/modules/addons/modules/recommended' === $pathinfo) {
-                $ret = array (  '_controller' => 'mbo.controller.modules.recommended:indexAction',  '_legacy_controller' => 'AdminPsMboRecommended',  '_legacy_link' => 'AdminPsMboRecommended',  '_route' => 'admin_mbo_recommended_modules',);
-                if (!in_array($canonicalMethod, ['GET'])) {
-                    $allow = array_merge($allow, ['GET']);
-                    goto not_admin_mbo_recommended_modules;
-                }
-
-                return $ret;
-            }
-            not_admin_mbo_recommended_modules:
-
-            // admin_mbo_catalog_theme
-            if ('/modules/addons/themes/catalog' === $pathinfo) {
-                $ret = array (  '_controller' => 'mbo.controller.themes.catalog:indexAction',  '_legacy_controller' => 'AdminPsMboTheme',  '_legacy_link' => 'AdminPsMboTheme',  '_route' => 'admin_mbo_catalog_theme',);
-                if (!in_array($canonicalMethod, ['GET'])) {
-                    $allow = array_merge($allow, ['GET']);
-                    goto not_admin_mbo_catalog_theme;
-                }
-
-                return $ret;
-            }
-            not_admin_mbo_catalog_theme:
 
         }
 

@@ -1,42 +1,42 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-01-26 23:12:19
+/* Smarty version 3.1.34-dev-7, created on 2021-02-04 14:05:07
   from 'module:psspecialsviewstemplatesh' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_601093c3051f94_52041586',
+  'unifunc' => 'content_601bf1037c79a6_84798082',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '69eca6f7099f96303240f391e6c6743858b25719' => 
     array (
       0 => 'module:psspecialsviewstemplatesh',
-      1 => 1606918382,
+      1 => 1611237234,
       2 => 'module',
     ),
     '86a4d354f725902b1405db749b93834da03807f6' => 
     array (
       0 => '/var/www/html/themes/classic/templates/catalog/_partials/productlist.tpl',
-      1 => 1606918382,
+      1 => 1611237234,
       2 => 'file',
     ),
     '4e48f9081812442e5797c9033049dad3e79d82e7' => 
     array (
       0 => '/var/www/html/themes/classic/templates/catalog/_partials/miniatures/product.tpl',
-      1 => 1606918382,
+      1 => 1611237234,
       2 => 'file',
     ),
     '0724df70e9113f9ffcf0299fe2d091b4d46089e2' => 
     array (
       0 => '/var/www/html/themes/classic/templates/catalog/_partials/product-flags.tpl',
-      1 => 1606918382,
+      1 => 1611237234,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_601093c3051f94_52041586 (Smarty_Internal_Template $_smarty_tpl) {
+function content_601bf1037c79a6_84798082 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <section class="featured-products clearfix mt-3">
   <h2 class="h2 products-section-title text-uppercase">
